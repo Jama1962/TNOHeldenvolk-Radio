@@ -1,0 +1,691 @@
+music = {
+	name = "intermission_1_intro"
+	file = "intermission_1_intro.ogg"
+}
+
+music = {
+	name = "a_basati_ba_lunau"
+	file = "a_basati_ba_lunau.ogg"
+}
+
+music = {
+	name = "afrika"
+	file = "afrika.ogg"
+}
+
+music = {
+	name = "a_shabby_little_hut"
+	file = "a_shabby_little_hut.ogg"
+} 
+
+music = {
+	name = "auld_lang_syne_rock"
+	file = "auld_lang_syne_rock.ogg"
+}
+
+
+music = {
+	name = "banana_ba_rustenburg"
+	file = "banana_ba_rustenburg.ogg"
+}
+
+music = {
+	name = "battle_cry"
+	file = "battle_cry.ogg"
+}
+
+music = {
+	name = "boots"
+	file = "boots.ogg"
+}
+
+music = {
+	name = "brazil"
+	file = "brazil.ogg"
+}
+
+music = {
+	name = "castle_laugh_inn_1"
+	file = "castle_laugh_inn_1.ogg"
+}
+
+music = {
+	name = "call_back_the_past"
+	file = "call_back_the_past.ogg"
+} 
+
+music = {
+	name = "chaka"
+	file = "chaka.ogg"
+}
+
+music = {
+	name = "come_back_silly_girl"
+	file = "come_back_silly_girl.ogg"
+}
+
+music = {
+	name = "confusions_about_a_goldfish"
+	file = "confusions_about_a_goldfish.ogg"
+}
+
+music = {
+	name = "cool_clean_calm_and_still"
+	file = "cool_clean_calm_and_still.ogg"
+}
+
+music = {
+	name = "take_me_home_country_roads"
+	file = "take_me_home_country_roads.ogg"
+}
+
+music = {
+	name = "creatures_of_the_earth"
+	file = "creatures_of_the_earth.ogg"
+}
+
+
+music = {
+	name = "die_lied_van_jong_suid_afrika"
+	file = "die_lied_van_jong_suid_afrika.ogg"
+}
+
+music = {
+	name = "dream_on"
+	file = "dream_on.ogg"
+}
+
+music = {
+	name = "does_it_ring_a_bell"
+	file = "does_it_ring_a_bell.ogg"
+}
+
+music = {
+	name = "intermission_2"
+	file = "intermission_2.ogg"
+}
+
+music = {
+	name = "east_meets_west"
+	file = "east_meets_west.ogg"
+}
+
+music = {
+	name = "ema_juba"
+	file = "ema_juba.ogg"
+}
+
+music = {
+	name = "for_your_precious_love"
+	file = "for_your_precious_love.ogg"
+}
+
+music = {
+	name = "full_experience"
+	file = "full_experience.ogg"
+}
+
+music = {
+	name = "georgina"
+	file = "georgina.ogg"
+}
+
+music = {
+	name = "german_luger"
+	file = "german_luger.ogg"
+}
+
+music = {
+	name = "gerrie_coetzee"
+	file = "gerrie_coetzee.ogg"
+}
+
+music = {
+	name = "grazing_in_the_grass"
+	file = "grazing_in_the_grass.ogg"
+}
+
+music = {
+	name = "ha_lese_le_di_khanna"
+	file = "ha_lese_le_di_khanna.ogg"
+}
+
+music = {
+	name = "hes_going_to_step_on_you_again"
+	file = "hes_going_to_step_on_you_again.ogg"
+}
+
+music = {
+	name = "hodi"
+	file = "hodi.ogg"
+}
+
+music = {
+	name = "hooked_on_a_feeling"
+	file = "hooked_on_a_feeling.ogg"
+}
+
+music = {
+	name = "house_of_the_rising_sun"
+	file = "house_of_the_rising_sun.ogg"
+}
+
+music = {
+	name = "i_can_see_clearly_now"
+	file = "i_can_see_clearly_now.ogg"
+}
+
+music = {
+	name = "sherlock_v"
+	file = "sherlock_v.ogg"
+}
+
+music = {
+	name = "ipi_ntombi"
+	file = "ipi_ntombi.ogg"
+}
+
+music = {
+	name = "ishumelosheleni"
+	file = "ishumelosheleni.ogg"
+}
+
+music = {
+	name = "isigcino"
+	file = "isigcino.ogg"
+}
+
+music = {
+	name = "its_raining_outside"
+	file = "its_raining_outside.ogg"
+}
+
+music = {
+	name = "jadoo_gurni"
+	file = "jadoo_gurni.ogg"
+}
+
+music = {
+	name = "jenny_jenny"
+	file = "jenny_jenny.ogg"
+}
+
+music = {
+	name = "intermission_3"
+	file = "intermission_3.ogg"
+}
+
+music = {
+	name = "johannesburg_bump_jive"
+	file = "johannesburg_bump_jive.ogg"
+}
+
+music = {
+	name = "kafkasque"
+	file = "kafkasque.ogg"
+}
+
+music = {
+	name = "khawuleza"
+	file = "khawuleza.ogg"
+}
+
+music = {
+	name = "kumbaya"
+	file = "kumbaya.ogg"
+}
+
+music = {
+	name = "kwela_kwela"
+	file = "kwela_kwela.ogg"
+}
+
+music = {
+	name = "kwela_mfana"
+	file = "kwela_mfana.ogg"
+}
+
+music = {
+	name = "lady_day"
+	file = "lady_day.ogg"
+}
+
+music = {
+	name = "squad_cars_1"
+	file = "squad_cars_1.ogg"
+}
+
+music = {
+	name = "languta"
+	file = "languta.ogg"
+}
+
+music = {
+	name = "little_little_lulu"
+	file = "little_little_lulu.ogg"
+}
+
+music = {
+	name = "looking_for_the_man"
+	file = "looking_for_the_man.ogg"
+}
+
+music = {
+	name = "call_back_the_past_2"
+	file = "call_back_the_past_2.ogg"
+}
+
+music = {
+	name = "look_out_here_comes_tomorrow"
+	file = "look_out_here_comes_tomorrow.ogg"
+}
+
+music = {
+	name = "love_equals_love"
+	file = "love_equals_love.ogg"
+}
+
+music = {
+	name = "lovely_lies"
+	file = "lovely_lies.ogg"
+}
+
+music = {
+	name = "mabayeke"
+	file = "mabayeke.ogg"
+}
+
+music = {
+	name = "intermission_4"
+	file = "intermission_4.ogg"
+}
+
+music = {
+	name = "mama_tembus_wedding"
+	file = "mama_tembus_wedding.ogg"
+}
+
+music = {
+	name = "marching_to_angola"
+	file = "marching_to_angola.ogg"
+}
+
+music = {
+	name = "m_mas_que_nada"
+	file = "m_mas_que_nada.ogg"
+}
+
+music = {
+	name = "master_jack"
+	file = "master_jack.ogg"
+}
+
+music = {
+	name = "mbube"
+	file = "mbube.ogg"
+}
+
+music = {
+	name = "merry_christmas_dear_mother"
+	file = "merry_christmas_dear_mother.ogg"
+}
+
+music = {
+	name = "my_land_suid_afrika"
+	file = "my_land_suid_afrika.ogg"
+}
+
+music = {
+	name = "my_names_adam_kane_1"
+	file = "my_names_adam_kane_1.ogg"
+}
+
+music = {
+	name = "ndodemnyama"
+	file = "ndodemnyama.ogg"
+}
+
+music = {
+	name = "never_leave_you"
+	file = "never_leave_you.ogg"
+}
+
+music = {
+	name = "ngiyeke_mfana"
+	file = "ngiyeke_mfana.ogg"
+}
+
+music = {
+	name = "ngongondira"
+	file = "ngongondira.ogg"
+}
+
+music = {
+	name = "nita_kukhoma_hi_kwini"
+	file = "nita_kukhoma_hi_kwini.ogg"
+}
+
+music = {
+	name = "noma_themba"
+	file = "noma_themba.ogg"
+}
+
+music = {
+	name = "nomacala"
+	file = "nomacala.ogg"
+}
+
+music = {
+	name = "castle_laugh_inn_2"
+	file = "castle_laugh_inn_2.ogg"
+}
+
+music = {
+	name = "nomeva"
+	file = "nomeva.ogg"
+}
+
+music = {
+	name = "no_place_to_hide"
+	file = "no_place_to_hide.ogg"
+}
+
+music = {
+	name = "nwananga"
+	file = "nwananga.ogg"
+}
+
+music = {
+	name = "on_the_rebound"
+	file = "on_the_rebound.ogg"
+}
+
+music = {
+	name = "pata_pata"
+	file = "pata_pata.ogg"
+}
+
+music = {
+	name = "phalafala"
+	file = "phalafala.ogg"
+}
+
+music = {
+	name = "intermission_5"
+	file = "intermission_5.ogg"
+}
+
+music = {
+	name = "phata_phata"
+	file = "phata_phata.ogg"
+}
+
+music = {
+	name = "phenduka_jive_mgqashiyo"
+	file = "phenduka_jive_mgqashiyo.ogg"
+}
+
+music = {
+	name = "puff_the_magic_dragon"
+	file = "puff_the_magic_dragon.ogg"
+}
+
+music = {
+	name = "put_your_head_on_my_shoulder"
+	file = "put_your_head_on_my_shoulder.ogg"
+}
+
+music = {
+	name = "the_click_song"
+	file = "the_click_song.ogg"
+}
+
+music = {
+	name = "quando_quando_quando_hi_note"
+	file = "quando_quando_quando_hi_note.ogg"
+}
+
+music = {
+	name = "same_to_you"
+	file = "same_to_you.ogg"
+}
+
+music = {
+	name = "savage"
+	file = "savage.ogg"
+}
+
+music = {
+	name = "save_me"
+	file = "save_me.ogg"
+}
+
+music = {
+	name = "senzeni_na"
+	file = "senzeni_na.ogg"
+}
+
+music = {
+	name = "shame_in_the_family"
+	file = "shame_in_the_family.ogg"
+}
+
+music = {
+	name = "she_doesnt_write"
+	file = "she_doesnt_write.ogg"
+}
+
+music = {
+	name = "sherlock_c"
+	file = "sherlock_c.ogg"
+}
+
+music = {
+	name = "silver_trees"
+	file = "silver_trees.ogg"
+}
+
+music = {
+	name = "since_youve_been_gone"
+	file = "since_youve_been_gone.ogg"
+}
+
+music = {
+	name = "somethings_going_wrong_with_my_baby"
+	file = "somethings_going_wrong_with_my_baby.ogg"
+}
+
+music = {
+	name = "intermission_6"
+	file = "intermission_6.ogg"
+}
+
+music = {
+	name = "sometime_loving"
+	file = "sometime_loving.ogg"
+}
+
+music = {
+	name = "sonny_boy"
+	file = "sonny_boy.ogg"
+}
+
+music = {
+	name = "squad_cars_2"
+	file = "squad_cars_2.ogg"
+}
+
+music = {
+	name = "stimela"
+	file = "stimela.ogg"
+}
+
+music = {
+	name = "substitute"
+	file = "substitute.ogg"
+}
+
+music = {
+	name = "table_mountain"
+	file = "table_mountain.ogg"
+}
+
+music = {
+	name = "take_him_home_louie"
+	file = "take_him_home_louie.ogg"
+}
+
+music = {
+	name = "test_the_team"
+	file = "test_the_team.ogg"
+}
+
+music = {
+	name = "call_back_the_past_3"
+	file = "call_back_the_past_3.ogg"
+}
+
+music = {
+	name = "the_horse"
+	file = "the_horse.ogg"
+}
+
+music = {
+	name = "the_only_girl_i_love"
+	file = "the_only_girl_i_love.ogg"
+}
+
+music = {
+	name = "the_seagulls_name_was_nelson"
+	file = "the_seagulls_name_was_nelson.ogg"
+}
+
+music = {
+	name = "the_warrior"
+	file = "the_warrior.ogg"
+}
+
+music = {
+	name = "there_are_seeds_to_sow"
+	file = "there_are_seeds_to_sow.ogg"
+}
+
+music = {
+	name = "theres_music_in_the_air"
+	file = "theres_music_in_the_air.ogg"
+}
+
+music = {
+	name = "they_took_her_away_from_the_land"
+	file = "they_took_her_away_from_the_land.ogg"
+}
+
+music = {
+	name = "timothy"
+	file = "timothy.ogg"
+}
+
+music = {
+	name = "intermission_7"
+	file = "intermission_7.ogg"
+}
+
+music = {
+	name = "squad_cars_3"
+	file = "squad_cars_3.ogg"
+}
+
+music = {
+	name = "my_names_adam_kane_2"
+	file = "my_names_adam_kane_2.ogg"
+}
+
+music = {
+	name = "tokoloshe_man"
+	file = "tokoloshe_man.ogg"
+}
+
+music = {
+	name = "troubadour_special"
+	file = "troubadour_special.ogg"
+}
+
+music = {
+	name = "tshona"
+	file = "tshona.ogg"
+}
+
+music = {
+	name = "tshotsholosa"
+	file = "tshotsholosa.ogg"
+}
+
+music = {
+	name = "twist_and_shout"
+	file = "twist_and_shout.ogg"
+}
+
+music = {
+	name = "ulova"
+	file = "ulova.ogg"
+}
+
+music = {
+	name = "umculo_kawupheli"
+	file = "umculo_kawupheli.ogg"
+}
+
+music = {
+	name = "umkhovu"
+	file = "umkhovu.ogg"
+}
+
+music = {
+	name = "viva_mocambique"
+	file = "viva_mocambique.ogg"
+}
+
+music = {
+	name = "waiting_for_the_train"
+	file = "waiting_for_the_train.ogg"
+}
+
+music = {
+	name = "we_got_a_good_thing_going_on"
+	file = "we_got_a_good_thing_going_on.ogg"
+}
+
+music = {
+	name = "wenyuka"
+	file = "wenyuka.ogg"
+}
+
+music = {
+	name = "when_love_comes_knocking"
+	file = "when_love_comes_knocking.ogg"
+}
+
+music = {
+	name = "when_youre_without_her"
+	file = "when_youre_without_her.ogg"
+}
+
+music = {
+	name = "whole_land_in_his_hand"
+	file = "whole_land_in_his_hand.ogg"
+}
+
+music = {
+	name = "yakhal_inkomo"
+	file = "yakhal_inkomo.ogg"
+}
+
+music = {
+	name = "yaku_yaku"
+	file = "yaku_yaku.ogg"
+}
+
+music = {
+	name = "yeh_duniya_yeh_mehfil"
+	file = "yeh_duniya_yeh_mehfil.ogg"
+}

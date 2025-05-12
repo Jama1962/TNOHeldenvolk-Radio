@@ -1,0 +1,585 @@
+music_station = die_stem_van_suid_afrika
+music = {
+	song = "a_mae"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "a_swingin_safari"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "a_tantos_de_tal"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "afrikaan_beat"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ag_pleez_deddy"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ahoy_madagaskar_ahoy"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "aus"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "baas_jack"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "bayete"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "before_the_next_teardrop_falls"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "bewakers_van_ons_land"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "blommetjie_gedenk_aan_my"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "clap_your_hands_and_stamp_your_feet"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "come_back_to_sorrento"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "daar_doer_in_die_bosveld"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "daars_n_man_op_die_grens"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "dankie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "das_sudwesterlied"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_bouzouki_klang_durch_die_sommernacht"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_gezoem_van_die_bye"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_grenswag"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_goeie_kameraad"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_ou_kalahari"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_ou_kraal_liedjie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_trein_na_pretoria"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_tortelduifwals"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "du"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "een_dag_nader"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ek_sal_jou_nooit_vergeet_nie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ek_verlang_na_jou"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "encantos_de_mocambique"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "erika"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "eu_sei"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "every_day_every_night"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "fado_angola"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "fado_das_trincheiras"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "farewell_britannia"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "fifth_dimension"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "give_me_a_chance"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "great_balls_of_fire"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "greensleeves"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "groen_koringlande"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "haas_das"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "hasie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "heia_safari_heino"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "heah"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "heidi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "heidschi_bumbeidschi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "huistoe"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "holiday_in_lourenco_marques"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ich_setze_alles_auf_eine_karte"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "im_just_a_shumba_drinker"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "in_die_son_van_ons_land"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "in_un_fiore"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "is_it_love"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "its_a_long_way_to_mukumbura"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jantjie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jock_of_the_bushveld"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jou_hart_is_weer_myne"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jy_is_my_liefling"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jy_is_so_wonderlik"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kanimambo"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kleinjan_skiet_die_kat"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kommando_polka"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "liefdesdrome"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "london_bobby"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "look_across_the_river"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "maggie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "magic_train"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mars_uit_kaptein_caprivi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mirza"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mocambique_e_portugal"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mocambique"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "na_hora_da_despedida"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "nafa"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "noord_transvaal"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "o_patria_mae"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "peace_dream"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "piri_piri"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "pretty_belinda"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "patria_ditosa"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "que_venham"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ramaja"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ruiter_in_die_nag"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "saries_marais"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "saturday_night"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "say_mama"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "she_only_wants_a_friend"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "snakes_and_ladders"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "south_africa"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "stap_saam_met_my_deur_die_land_van_son"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "stop_the_music"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sunday"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sunday_girl"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sweet_dream_baby"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sy_kom_van_kommetjie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "telegramm_aus_tennessee"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_biltong_song"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_battle_of_bembezi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_exodus_song"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_gunship_calypso"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_last_farewell"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ti_amo"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "tien_duisend_myl"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "toy_train"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "tsotsi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "uberall_auf_der_welt"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "umfaan"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "vaaldam_seties"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "vaarwel_my_eie_soetelief"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "vasbyt_daar_op_die_grens"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "vivere"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "vrystaat"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "want_ek_het_jou_lief"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "warmpatat"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "wes_transvaal_se_volkies"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "will_you_remember"
+	chance = { factor = 1 }
+}

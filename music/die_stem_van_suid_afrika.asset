@@ -1,0 +1,584 @@
+music = {
+	name = "a_mae"
+	file = "a_mae.ogg"
+}
+
+music = {
+	name = "a_swingin_safari"
+	file = "a_swingin_safari.ogg"
+}
+
+music = {
+	name = "a_tantos_de_tal"
+	file = "a_tantos_de_tal.ogg"
+}
+
+music = {
+	name = "afrikaan_beat"
+	file = "afrikaan_beat.ogg"
+}
+
+music = {
+	name = "ag_pleez_deddy"
+	file = "ag_pleez_deddy.ogg"
+} 
+
+music = {
+	name = "ahoy_madagaskar_ahoy"
+	file = "ahoy_madagaskar_ahoy.ogg"
+}
+
+music = {
+	name = "aus"
+	file = "aus.ogg"
+}
+
+music = {
+	name = "baas_jack"
+	file = "baas_jack.ogg"
+}
+
+music = {
+	name = "bayete"
+	file = "bayete.ogg"
+}
+
+music = {
+	name = "before_the_next_teardrop_falls"
+	file = "before_the_next_teardrop_falls.ogg"
+}
+
+music = {
+	name = "bewakers_van_ons_land"
+	file = "bewakers_van_ons_land.ogg"
+}
+
+music = {
+	name = "blommetjie_gedenk_aan_my"
+	file = "blommetjie_gedenk_aan_my.ogg"
+}
+
+music = {
+	name = "clap_your_hands_and_stamp_your_feet"
+	file = "clap_your_hands_and_stamp_your_feet.ogg"
+}
+
+music = {
+	name = "come_back_to_sorrento"
+	file = "come_back_to_sorrento.ogg"
+}
+
+music = {
+	name = "daar_doer_in_die_bosveld"
+	file = "daar_doer_in_die_bosveld.ogg"
+}
+
+music = {
+	name = "daars_n_man_op_die_grens"
+	file = "daars_n_man_op_die_grens.ogg"
+}
+
+music = {
+	name = "dankie"
+	file = "dankie.ogg"
+}
+
+music = {
+	name = "das_sudwesterlied"
+	file = "das_sudwesterlied.ogg"
+}
+
+music = {
+	name = "die_bouzouki_klang_durch_die_sommernacht"
+	file = "die_bouzouki_klang_durch_die_sommernacht.ogg"
+}
+
+music = {
+	name = "die_gezoem_van_die_bye"
+	file = "die_gezoem_van_die_bye.ogg"
+}
+
+music = {
+	name = "die_grenswag"
+	file = "die_grenswag.ogg"
+}
+
+music = {
+	name = "die_goeie_kameraad"
+	file = "die_goeie_kameraad.ogg"
+}
+
+music = {
+	name = "die_ou_kalahari"
+	file = "die_ou_kalahari.ogg"
+}
+
+music = {
+	name = "die_ou_kraal_liedjie"
+	file = "die_ou_kraal_liedjie.ogg"
+}
+
+music = {
+	name = "die_trein_na_pretoria"
+	file = "die_trein_na_pretoria.ogg"
+}
+
+music = {
+	name = "die_tortelduifwals"
+	file = "die_tortelduifwals.ogg"
+}
+
+music = {
+	name = "du"
+	file = "du.ogg"
+}
+
+music = {
+	name = "een_dag_nader"
+	file = "een_dag_nader.ogg"
+}
+
+music = {
+	name = "ek_sal_jou_nooit_vergeet_nie"
+	file = "ek_sal_jou_nooit_vergeet_nie.ogg"
+}
+
+music = {
+	name = "ek_verlang_na_jou"
+	file = "ek_verlang_na_jou.ogg"
+}
+
+music = {
+	name = "encantos_de_mocambique"
+	file = "encantos_de_mocambique.ogg"
+}
+
+music = {
+	name = "erika"
+	file = "erika.ogg"
+}
+
+music = {
+	name = "eu_sei"
+	file = "eu_sei.ogg"
+}
+
+music = {
+	name = "every_day_every_night"
+	file = "every_day_every_night.ogg"
+}
+
+music = {
+	name = "fado_angola"
+	file = "fado_angola.ogg"
+}
+
+music = {
+	name = "fado_das_trincheiras"
+	file = "fado_das_trincheiras.ogg"
+}
+
+music = {
+	name = "farewell_britannia"
+	file = "farewell_britannia.ogg"
+}
+
+music = {
+	name = "fifth_dimension"
+	file = "fifth_dimension.ogg"
+}
+
+music = {
+	name = "give_me_a_chance"
+	file = "give_me_a_chance.ogg"
+}
+
+music = {
+	name = "great_balls_of_fire"
+	file = "great_balls_of_fire.ogg"
+}
+
+music = {
+	name = "greensleeves"
+	file = "greensleeves.ogg"
+}
+
+music = {
+	name = "groen_koringlande"
+	file = "groen_koringlande.ogg"
+}
+
+music = {
+	name = "haas_das"
+	file = "haas_das.ogg"
+}
+
+music = {
+	name = "hasie"
+	file = "hasie.ogg"
+}
+
+music = {
+	name = "heia_safari_heino"
+	file = "heia_safari_heino.ogg"
+}
+
+music = {
+	name = "heah"
+	file = "heah.ogg"
+}
+
+music = {
+	name = "heidi"
+	file = "heidi.ogg"
+}
+
+music = {
+	name = "heidschi_bumbeidschi"
+	file = "heidschi_bumbeidschi.ogg"
+}
+
+music = {
+	name = "huistoe"
+	file = "huistoe.ogg"
+}
+
+music = {
+	name = "holiday_in_lourenco_marques"
+	file = "holiday_in_lourenco_marques.ogg"
+}
+
+music = {
+	name = "ich_setze_alles_auf_eine_karte"
+	file = "ich_setze_alles_auf_eine_karte.ogg"
+}
+
+music = {
+	name = "im_just_a_shumba_drinker"
+	file = "im_just_a_shumba_drinker.ogg"
+}
+
+music = {
+	name = "in_die_son_van_ons_land"
+	file = "in_die_son_van_ons_land.ogg"
+}
+
+music = {
+	name = "in_un_fiore"
+	file = "in_un_fiore.ogg"
+}
+
+music = {
+	name = "is_it_love"
+	file = "is_it_love.ogg"
+}
+
+music = {
+	name = "its_a_long_way_to_mukumbura"
+	file = "its_a_long_way_to_mukumbura.ogg"
+}
+
+music = {
+	name = "jantjie"
+	file = "jantjie.ogg"
+}
+
+music = {
+	name = "jock_of_the_bushveld"
+	file = "jock_of_the_bushveld.ogg"
+}
+
+music = {
+	name = "jou_hart_is_weer_myne"
+	file = "jou_hart_is_weer_myne.ogg"
+}
+
+music = {
+	name = "jy_is_my_liefling"
+	file = "jy_is_my_liefling.ogg"
+}
+
+music = {
+	name = "jy_is_so_wonderlik"
+	file = "jy_is_so_wonderlik.ogg"
+}
+
+music = {
+	name = "kanimambo"
+	file = "kanimambo.ogg"
+}
+
+music = {
+	name = "kleinjan_skiet_die_kat"
+	file = "kleinjan_skiet_die_kat.ogg"
+}
+
+music = {
+	name = "kommando_polka"
+	file = "kommando_polka.ogg"
+}
+
+music = {
+	name = "liefdesdrome"
+	file = "liefdesdrome.ogg"
+}
+
+music = {
+	name = "london_bobby"
+	file = "london_bobby.ogg"
+}
+
+music = {
+	name = "look_across_the_river"
+	file = "look_across_the_river.ogg"
+}
+
+music = {
+	name = "maggie"
+	file = "maggie.ogg"
+}
+
+music = {
+	name = "magic_train"
+	file = "magic_train.ogg"
+}
+
+music = {
+	name = "mars_uit_kaptein_caprivi"
+	file = "mars_uit_kaptein_caprivi.ogg"
+}
+
+music = {
+	name = "mirza"
+	file = "mirza.ogg"
+}
+
+music = {
+	name = "mocambique_e_portugal"
+	file = "mocambique_e_portugal.ogg"
+}
+
+music = {
+	name = "mocambique"
+	file = "mocambique.ogg"
+}
+
+music = {
+	name = "na_hora_da_despedida"
+	file = "na_hora_da_despedida.ogg"
+}
+
+music = {
+	name = "nafa"
+	file = "nafa.ogg"
+}
+
+music = {
+	name = "noord_transvaal"
+	file = "noord_transvaal.ogg"
+}
+
+music = {
+	name = "o_patria_mae"
+	file = "o_patria_mae.ogg"
+}
+
+music = {
+	name = "peace_dream"
+	file = "peace_dream.ogg"
+}
+
+music = {
+	name = "piri_piri"
+	file = "piri_piri.ogg"
+}
+
+music = {
+	name = "pretty_belinda"
+	file = "pretty_belinda.ogg"
+}
+
+music = {
+	name = "patria_ditosa"
+	file = "patria_ditosa.ogg"
+}
+
+music = {
+	name = "que_venham"
+	file = "que_venham.ogg"
+}
+
+music = {
+	name = "ramaja"
+	file = "ramaja.ogg"
+}
+
+music = {
+	name = "ruiter_in_die_nag"
+	file = "ruiter_in_die_nag.ogg"
+}
+
+music = {
+	name = "saries_marais"
+	file = "saries_marais.ogg"
+}
+
+music = {
+	name = "saturday_night"
+	file = "saturday_night.ogg"
+}
+
+music = {
+	name = "say_mama"
+	file = "say_mama.ogg"
+}
+
+music = {
+	name = "she_only_wants_a_friend"
+	file = "she_only_wants_a_friend.ogg"
+}
+
+music = {
+	name = "snakes_and_ladders"
+	file = "snakes_and_ladders.ogg"
+}
+
+music = {
+	name = "south_africa"
+	file = "south_africa.ogg"
+}
+
+music = {
+	name = "stap_saam_met_my_deur_die_land_van_son"
+	file = "stap_saam_met_my_deur_die_land_van_son.ogg"
+}
+
+music = {
+	name = "stop_the_music"
+	file = "stop_the_music.ogg"
+}
+
+music = {
+	name = "sunday_girl"
+	file = "sunday_girl.ogg"
+}
+
+music = {
+	name = "sunday"
+	file = "sunday.ogg"
+}
+
+music = {
+	name = "sweet_dream_baby"
+	file = "sweet_dream_baby.ogg"
+}
+
+music = {
+	name = "sy_kom_van_kommetjie"
+	file = "sy_kom_van_kommetjie.ogg"
+}
+
+music = {
+	name = "telegramm_aus_tennessee"
+	file = "telegramm_aus_tennessee.ogg"
+}
+
+music = {
+	name = "the_battle_of_bembezi"
+	file = "the_battle_of_bembezi.ogg"
+}
+
+music = {
+	name = "the_biltong_song"
+	file = "the_biltong_song.ogg"
+}
+
+music = {
+	name = "the_exodus_song"
+	file = "the_exodus_song.ogg"
+}
+
+music = {
+	name = "the_gunship_calypso"
+	file = "the_gunship_calypso.ogg"
+}
+
+music = {
+	name = "the_last_farewell"
+	file = "the_last_farewell.ogg"
+}
+
+music = {
+	name = "ti_amo"
+	file = "ti_amo.ogg"
+}
+
+music = {
+	name = "tien_duisend_myl"
+	file = "tien_duisend_myl.ogg"
+}
+
+music = {
+	name = "toy_train"
+	file = "toy_train.ogg"
+}
+
+music = {
+	name = "tsotsi"
+	file = "tsotsi.ogg"
+}
+
+music = {
+	name = "uberall_auf_der_welt"
+	file = "uberall_auf_der_welt.ogg"
+}
+
+music = {
+	name = "umfaan"
+	file = "umfaan.ogg"
+}
+
+music = {
+	name = "vaaldam_seties"
+	file = "vaaldam_seties.ogg"
+}
+
+music = {
+	name = "vaarwel_my_eie_soetelief"
+	file = "vaarwel_my_eie_soetelief.ogg"
+}
+
+music = {
+	name = "vasbyt_daar_op_die_grens"
+	file = "vasbyt_daar_op_die_grens.ogg"
+}
+
+music = {
+	name = "vivere"
+	file = "vivere.ogg"
+}
+
+music = {
+	name = "vrystaat"
+	file = "vrystaat.ogg"
+}
+
+music = {
+	name = "want_ek_het_jou_lief"
+	file = "want_ek_het_jou_lief.ogg"
+}
+
+music = {
+	name = "warmpatat"
+	file = "warmpatat.ogg"
+}
+
+music = {
+	name = "wes_transvaal_se_volkies"
+	file = "wes_transvaal_se_volkies.ogg"
+}
+
+music = {
+	name = "will_you_remember"
+	file = "will_you_remember.ogg"
+}

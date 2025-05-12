@@ -1,0 +1,12 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_springbok_cover"
+		textureFile = "gfx/radio_springbok_cover.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_die_stem_van_suid_afrika_cover"
+		textureFile = "gfx/radio_die_stem_van_suid_afrika_cover.dds"
+		noOfFrames = 2"
+	}
+}

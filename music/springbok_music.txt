@@ -1,0 +1,695 @@
+music_station = Springbok
+music = {
+	song = "intermission_1_intro"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "a_basati_ba_lunau"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "afrika"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "a_shabby_little_hut"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "auld_lang_syne_rock"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "banana_ba_rustenburg"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "battle_cry"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "boots"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "brazil"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "castle_laugh_inn_1"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "call_back_the_past"
+	chance = { factor = 1 }
+} 
+
+music = {
+	song = "chaka"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "come_back_silly_girl"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "confusions_about_a_goldfish"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "cool_clean_calm_and_still"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "take_me_home_country_roads"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "creatures_of_the_earth"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "die_lied_van_jong_suid_afrika"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "dream_on"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "does_it_ring_a_bell"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_2"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "east_meets_west"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ema_juba"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "for_your_precious_love"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "full_experience"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "georgina"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "german_luger"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "gerrie_coetzee"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "grazing_in_the_grass"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ha_lese_le_di_khanna"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "hes_going_to_step_on_you_again"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "hodi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "hooked_on_a_feeling"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "house_of_the_rising_sun"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "i_can_see_clearly_now"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sherlock_v"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ipi_ntombi"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ishumelosheleni"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "isigcino"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "its_raining_outside"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jadoo_gurni"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "jenny_jenny"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_3"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "johannesburg_bump_jive"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kafkasque"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "khawuleza"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kumbaya"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kwela_kwela"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "kwela_mfana"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "lady_day"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "squad_cars_1"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "languta"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "little_little_lulu"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "looking_for_the_man"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "call_back_the_past_2"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "look_out_here_comes_tomorrow"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "love_equals_love"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "lovely_lies"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mabayeke"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "marching_to_angola"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "m_mas_que_nada"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "master_jack"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mbube"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mabayeke"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_4"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "mama_tembus_wedding"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "merry_christmas_dear_mother"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "my_land_suid_afrika"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "my_names_adam_kane_1"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ndodemnyama"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "never_leave_you"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ngiyeke_mfana"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ngongondira"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "nita_kukhoma_hi_kwini"
+	chance = { factor = 1 }
+}
+music = {
+	song = "noma_themba"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "nomacala"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "castle_laugh_inn_2"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "nomeva"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "nwananga"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "no_place_to_hide"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "on_the_rebound"
+	chance = { factor = 1 }
+}
+
+
+music = {
+	song = "pata_pata"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "phalafala"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_5"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "phata_phata"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "phenduka_jive_mgqashiyo"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "puff_the_magic_dragon"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "put_your_head_on_my_shoulder"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_click_song"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "quando_quando_quando_hi_note"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "same_to_you"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "savage"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "save_me"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "senzeni_na"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "shame_in_the_family"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "silver_trees"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "she_doesnt_write"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sherlock_c"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "since_youve_been_gone"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "somethings_going_wrong_with_my_baby"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_6"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sometime_loving"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "sonny_boy"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "squad_cars_2"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "stimela"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "substitute"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "table_mountain"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "take_him_home_louie"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "test_the_team"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "call_back_the_past_3"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_horse"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_only_girl_i_love"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_seagulls_name_was_nelson"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_warrior"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "there_are_seeds_to_sow"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "theres_music_in_the_air"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "they_took_her_away_from_the_land"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "timothy"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "intermission_7"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "squad_cars_3"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "my_names_adam_kane_2"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "tokoloshe_man"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "troubadour_special"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "tshona"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "tshotsholosa"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "twist_and_shout"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "ulova"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "umculo_kawupheli"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "umkhovu"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "viva_mocambique"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "waiting_for_the_train"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "we_got_a_good_thing_going_on"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "wenyuka"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "when_love_comes_knocking"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "when_youre_without_her"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "whole_land_in_his_hand"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "yakhal_inkomo"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "yaku_yaku"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "yeh_duniya_yeh_mehfil"
+	chance = { factor = 1 }
+}
