@@ -3,4 +3,4 @@ tags={
 	"Sound"
 }
 name="TNO: Heldenvolk Radio"
-supported_version="1.16.5"
+supported_version="1.16.6"
