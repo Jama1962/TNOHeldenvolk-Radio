@@ -68,6 +68,11 @@ music = {
 	song = "confusions_about_a_goldfish"
 	chance = { factor = 1 }
 }
+ 
+ music = {
+	song = "consider_your_verdict"
+	chance = { factor = 1 }
+}
 
 music = {
 	song = "cool_clean_calm_and_still"
@@ -185,6 +190,11 @@ music = {
 }
 
 music = {
+	song = "call_back_the_past_2"
+	chance = { factor = 1 }
+}
+
+music = {
 	song = "ishumelosheleni"
 	chance = { factor = 1 }
 }
@@ -270,11 +280,6 @@ music = {
 }
 
 music = {
-	song = "call_back_the_past_2"
-	chance = { factor = 1 }
-}
-
-music = {
 	song = "look_out_here_comes_tomorrow"
 	chance = { factor = 1 }
 }
@@ -340,11 +345,6 @@ music = {
 }
 
 music = {
-	song = "my_names_adam_kane_1"
-	chance = { factor = 1 }
-}
-
-music = {
 	song = "ndodemnyama"
 	chance = { factor = 1 }
 }
@@ -368,6 +368,12 @@ music = {
 	song = "nita_kukhoma_hi_kwini"
 	chance = { factor = 1 }
 }
+
+music = {
+	song = "call_back_the_past_3"
+	chance = { factor = 1 }
+}
+
 music = {
 	song = "noma_themba"
 	chance = { factor = 1 }
@@ -490,6 +496,11 @@ music = {
 }
 
 music = {
+	song = "call_back_the_past_4"
+	chance = { factor = 1 }
+}
+
+music = {
 	song = "since_youve_been_gone"
 	chance = { factor = 1 }
 }
@@ -545,11 +556,6 @@ music = {
 }
 
 music = {
-	song = "call_back_the_past_3"
-	chance = { factor = 1 }
-}
-
-music = {
 	song = "the_horse"
 	chance = { factor = 1 }
 }
@@ -561,6 +567,16 @@ music = {
 
 music = {
 	song = "the_seagulls_name_was_nelson"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "call_back_the_past_5"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "the_uninvited"
 	chance = { factor = 1 }
 }
 
@@ -596,11 +612,6 @@ music = {
 
 music = {
 	song = "squad_cars_3"
-	chance = { factor = 1 }
-}
-
-music = {
-	song = "my_names_adam_kane_2"
 	chance = { factor = 1 }
 }
 
@@ -661,6 +672,11 @@ music = {
 
 music = {
 	song = "wenyuka"
+	chance = { factor = 1 }
+}
+
+music = {
+	song = "call_back_the_past_6"
 	chance = { factor = 1 }
 }
 

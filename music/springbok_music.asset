@@ -70,6 +70,11 @@ music = {
 }
 
 music = {
+	name = "consider_your_verdict"
+	file = "consider_your_verdict.ogg"
+}
+
+music = {
 	name = "cool_clean_calm_and_still"
 	file = "cool_clean_calm_and_still.ogg"
 }
@@ -186,6 +191,11 @@ music = {
 }
 
 music = {
+	name = "call_back_the_past_2"
+	file = "call_back_the_past_2.ogg"
+}
+
+music = {
 	name = "ishumelosheleni"
 	file = "ishumelosheleni.ogg"
 }
@@ -271,11 +281,6 @@ music = {
 }
 
 music = {
-	name = "call_back_the_past_2"
-	file = "call_back_the_past_2.ogg"
-}
-
-music = {
 	name = "look_out_here_comes_tomorrow"
 	file = "look_out_here_comes_tomorrow.ogg"
 }
@@ -336,11 +341,6 @@ music = {
 }
 
 music = {
-	name = "my_names_adam_kane_1"
-	file = "my_names_adam_kane_1.ogg"
-}
-
-music = {
 	name = "ndodemnyama"
 	file = "ndodemnyama.ogg"
 }
@@ -363,6 +363,11 @@ music = {
 music = {
 	name = "nita_kukhoma_hi_kwini"
 	file = "nita_kukhoma_hi_kwini.ogg"
+}
+
+music = {
+	name = "call_back_the_past_3"
+	file = "call_back_the_past_3.ogg"
 }
 
 music = {
@@ -481,6 +486,11 @@ music = {
 }
 
 music = {
+	name = "call_back_the_past_4"
+	file = "call_back_the_past_4.ogg"
+}
+
+music = {
 	name = "silver_trees"
 	file = "silver_trees.ogg"
 }
@@ -541,11 +551,6 @@ music = {
 }
 
 music = {
-	name = "call_back_the_past_3"
-	file = "call_back_the_past_3.ogg"
-}
-
-music = {
 	name = "the_horse"
 	file = "the_horse.ogg"
 }
@@ -558,6 +563,16 @@ music = {
 music = {
 	name = "the_seagulls_name_was_nelson"
 	file = "the_seagulls_name_was_nelson.ogg"
+}
+
+music = {
+	name = "call_back_the_past_5"
+	file = "call_back_the_past_5.ogg"
+}
+
+music = {
+	name = "the_uninvited"
+	file = "the_uninvited.ogg"
 }
 
 music = {
@@ -593,11 +608,6 @@ music = {
 music = {
 	name = "squad_cars_3"
 	file = "squad_cars_3.ogg"
-}
-
-music = {
-	name = "my_names_adam_kane_2"
-	file = "my_names_adam_kane_2.ogg"
 }
 
 music = {
@@ -658,6 +668,11 @@ music = {
 music = {
 	name = "wenyuka"
 	file = "wenyuka.ogg"
+}
+
+music = {
+	name = "call_back_the_past_6"
+	file = "call_back_the_past_6.ogg"
 }
 
 music = {
