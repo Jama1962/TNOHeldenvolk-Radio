@@ -1,0 +1,5 @@
+.DS_Store
+*.bak
+!spec/*.bak
+*desktop.ini
+!spec/*desktop.ini
